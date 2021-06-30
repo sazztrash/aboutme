@@ -3,4 +3,10 @@
 # ***OWNER***
 ==> By: notefct
 # ***REFERENCE***
-***URL: W3SCHOOLS***
+~~~W3SCHOOLS HTML
+Click [Aqui](https://www.w3schools.com/html/default.asp)
+~~~
+
+~~~W3SCHOOLS CSS
+Click [Aqui](https://www.w3schools.com/css/default.asp)
+~~~
